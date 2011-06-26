@@ -1,0 +1,4 @@
+#!/bin/bash
+
+coverage run manage.py test core
+coverage html --include='src/oddtools/**/*.py' --omit='src/oddtools/**/migrations/*','src/oddtools/**/tests/*','src/oddtools/**/tests.py'
