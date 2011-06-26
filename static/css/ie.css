@@ -272,10 +272,10 @@ button, input[type="reset"], input[type="submit"], input[type="button"], input[t
 .loading .overlay { position: absolute; top: 0; bottom: 0; left: 0; right: 0; font-weight: 700; background: rgba(242, 242, 242, 0.618); color: rgba(64, 64, 64, 0.618); text-align: center; }
 
 .message { padding-left: 2.427em; padding-right: 0.809em; background: rgba(204, 204, 204, 0.618) no-repeat scroll 0.809em; }
-.message.info { background-image: url('../images/ui/info.png?1306961747'); background-color: rgba(179, 179, 230, 0.382); }
-.message.success { background-image: url('../images/ui/check.png?1305749988'); background-color: rgba(179, 230, 179, 0.382); }
-.message.warning { background-image: url('../images/ui/warning.png?1305750015'); background-color: rgba(242, 223, 166, 0.382); }
-.message.error { background-image: url('../images/ui/x.png?1307817035'); background-color: rgba(230, 179, 179, 0.382); }
+.message.info { background-image: url('../images/ui/info.png?1309055234'); background-color: rgba(179, 179, 230, 0.382); }
+.message.success { background-image: url('../images/ui/check.png?1309055234'); background-color: rgba(179, 230, 179, 0.382); }
+.message.warning { background-image: url('../images/ui/warning.png?1309055234'); background-color: rgba(242, 223, 166, 0.382); }
+.message.error { background-image: url('../images/ui/x.png?1309055234'); background-color: rgba(230, 179, 179, 0.382); }
 
 #messages ul { margin: 0; padding: 0; border: 0; list-style: none; }
 #messages ul li { list-style-image: none; list-style-type: none; margin-left: 0px; }
