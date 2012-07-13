@@ -91,3 +91,7 @@ pre, blockquote, img { page-break-inside: avoid; }
 p, h2, h3 { orphans: 3; widows: 3; }
 
 h2, h3 { page-break-after: avoid; }
+
+footer[role="contentinfo"] { display: none; }
+
+footer#agreement { page-break-before: always; }
